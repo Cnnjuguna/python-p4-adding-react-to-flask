@@ -1,0 +1,9 @@
+alembic
+Faker
+Flask
+Flask_Cors
+Flask_Migrate
+Flask_SQLAlchemy
+SQLAlchemy
+SQLAlchemy_serializer
+typing-extensions>=4
